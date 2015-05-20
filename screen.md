@@ -1,6 +1,9 @@
 Screen
 ======
 
+Window Management
+-----------------
+
 description                       |  command
 --------------------------------- | ----------
 create a new window | ```C-a c```
@@ -13,3 +16,6 @@ show window bar | ```C-a w```
 kill current window | ```C-a k```
 kill all windows | ```C-a \```
 rename current window | ```C-a A```
+
+Split Screen
+------------
